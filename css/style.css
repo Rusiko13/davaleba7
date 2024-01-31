@@ -1,7 +1,14 @@
 header {
+  position: fixed;
+  z-index: 2;
+  background-color: #fff;
+  width: 100%;
+  top: 0;
+padding-bottom: 30px;
   display: flex;
   justify-content: space-around;
 }
+
 .flex {
   display: flex;
   justify-content: center;
